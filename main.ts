@@ -1,7 +1,6 @@
-import { Intervals, Chords,  CrunchierChords, Progression, Chord, ChordsInKey, ChordProgression } from "./src/chords.ts";
+import {ChordsInKey, ChordProgression } from "./src/chords.ts";
 import * as helper from "./src/helper.ts";
 import { Notes } from "./src/notes.ts";
-import { Scales, Modes, Keys } from "./src/scales.ts";
 import * as midi from "./src/midiworker.ts";
 
 const mid = midi.createMidi(midi.createTrack({

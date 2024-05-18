@@ -18,7 +18,7 @@ Install deno from https://deno.land/
 Download or clone this git repository.
 
 ```bash
-git clone goosterv/giocose
+git clone goosterv/giocoso
 cd giocoso
 ```
 
