@@ -1,0 +1,17 @@
+## Harmonic Analysis
+- return result of the harmonic figureheads in the data (music) given.
+- the harmonic figureheads such as the key, the progression, the main chords, and the main scales. 
+- the harmonic figureheads are the main elements that define the harmonic structure of a piece of music.
+  
+## Melodic Analysis
+- return result of the melodic intervals in the data.
+- the melodic intervals are the main elements that define the melodic structure of a piece of music, e.g. going up a fifth then back down the scale (as a simple melody)
+  
+## Voicing 
+- voice chords to that each note is played in a different 8ve (or same depending on structure) and to make sure each note travels the least distance to get to the next chord.
+- this is a common technique in music theory to make the music sound more pleasing to the ear and connected.
+
+## Generation via Tonal Center
+- generate a voiced chord progression based on a "home-base" note.
+- this does not have to be the root note of the scale/chord progression, but can be any note in the scale.
+- the generated progression will be voiced in a way which makes the overall flow of the music sound more connected and gives it a place to return to without fully resolving.
